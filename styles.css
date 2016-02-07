@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: url('images/binding_dark.png');
+  background: url('images/blackorchid.png');
 }
 /* Link Styles */
 
@@ -25,7 +25,7 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: url('images/binding_dark.png');
+  background: url('images/blackorchid.png');
   min-height: 30px;
   padding: 10px;
   position: fixed;
@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/leaves.jpg') no-repeat top center ;
+  background: url('images/moss-cave-edited.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -72,7 +72,7 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.1) rotate(90deg);
 }
 .tag {
   color: white;
@@ -80,10 +80,10 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 }
-.location {
+/*.location {
   background-color: #222;
   color: yellow;
-}
+}*/
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
