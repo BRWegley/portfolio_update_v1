@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: url('images/blackorchid.png');
+  background: url('images/noisy_net.png');
 }
 /* Link Styles */
 
@@ -25,7 +25,7 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: url('images/blackorchid.png');
+  background: url('images/noisy_net.png');
   min-height: 30px;
   padding: 10px;
   position: fixed;
